@@ -1,0 +1,9 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "手写webpack，剖析webpack原理",
+  "main": "index.js",
+  "bin": {
+    "mywebpack": "./src/index.js"
+  }
+}
